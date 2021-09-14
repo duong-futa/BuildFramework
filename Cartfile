@@ -1,2 +1,2 @@
-github "realm/realm-cocoa" == 4.4.1
-github "uber/RIBs"
+#github "realm/realm-cocoa" == 4.4.1
+#github "uber/RIBs"
