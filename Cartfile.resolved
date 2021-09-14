@@ -1,0 +1,3 @@
+github "ReactiveX/RxSwift" "6.2.0"
+github "realm/realm-cocoa" "v4.4.1"
+github "uber/RIBs" "v0.11.2"
